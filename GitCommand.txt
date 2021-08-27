@@ -21,3 +21,4 @@ git push
 git remote add upstream https://github.com/mhakimi2/mhakimi2.git
 6 change (6 change in master branch)
 get change 6 added for master.
+making change 1 and storing for 4.
