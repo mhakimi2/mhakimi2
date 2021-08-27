@@ -18,3 +18,4 @@ git add .
 git commit -m "first commit"
 git push 
 01 commit ahead
+git remote add upstream https://github.com/mhakimi2/mhakimi2.git
